@@ -20,3 +20,6 @@ yt-dlp.exe %URL% --format mp4
 move *.mp4 D:/Folder/%CATEGORY%/
 
 echo Moved file to %CATEGORY%
+
+::Lessons
+::Do not leave space between the variable name and the assigned value!
