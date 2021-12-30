@@ -8,7 +8,6 @@
 
 <p> The initial pre-requisite is yt-dlp's executable needs to be present in the same directory as the batchfile.<p>
 
-<ul>
 <p> Clone the repository using : </p>
 
 ```
