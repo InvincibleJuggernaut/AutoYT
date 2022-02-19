@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=YT
+Exec=bash /home/YT/YT_prompt.sh
+Icon=/home/YT/YT.png
+Terminal=true
+Type=Application
+Categories=Network;Accessories
+Keywords=web;internet;YT;yt-dlp
